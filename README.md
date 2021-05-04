@@ -1,2 +1,1 @@
-"# WordCloud-withPython" 
-"# Mini-MBTI-test" 
+Mini MBTI Test project with C 
